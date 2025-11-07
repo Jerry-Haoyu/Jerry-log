@@ -22,5 +22,7 @@ This model is a step up from all early attempts of object detection networks. Th
 > Problem: Object appears in different scale in an image. How to make sure our detector can function at different scale
 > Solution: CNN operates at different resolution, we can attach detector to feature maps at different levels.
 
+!(/images/pyramid_feature.png)
+
 
 
